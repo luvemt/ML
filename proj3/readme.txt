@@ -3,5 +3,5 @@
     e.g python classifiers EEG_Eye_State.arff
 -To run the digits dataset, type: python classifiers digits
 -The project3_report.docx is the report for the analysis of the classifiers on the datasets
--decisionTreeSrc.txt has the solution for the pre-prune/ post-prune question
+-decisionTreeSrc.docx has the solution for the pre-prune/ post-prune question
 
